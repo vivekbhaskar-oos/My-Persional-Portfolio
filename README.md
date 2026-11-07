@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website showcasing my **skills, proje
 
 ## 🌐 Live Website
 
-**[🔗 Visit My Portfolio →]( https://vivekbhaskar-oos.github.io/new-portfolio/)**
+**[🔗 Visit My Portfolio →](https://vivekbhaskar-oos.github.io/My-Persional-Portfolio/)**
 
 ## 📌 About the Project
 
